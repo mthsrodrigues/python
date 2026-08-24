@@ -1,0 +1,5 @@
+#!/bin/csh
+
+setenv LD_LIBRARY_PATH ${LD_LIBRARY_PATH}:${ROOTSYS}/lib:.
+
+example4.7
