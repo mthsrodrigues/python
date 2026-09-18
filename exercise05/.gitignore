@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+generate
+plot_and_fit
+*.o
