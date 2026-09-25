@@ -1,0 +1,9 @@
+Beams:idA = 2212
+Beams:idB = 2212
+Beams:eCM = 13000.
+PDF:pSet = LHAPDF6:cteq6l1
+WeakZ0:gmZmode = 2
+WeakSingleBoson:ffbar2gmZ = on
+23:onMode = off
+23:onIfMatch = 5 -5
+Main:numberOfEvents = 1000

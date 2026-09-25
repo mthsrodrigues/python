@@ -1,0 +1,12 @@
+Beams:idA = 2212
+Beams:idB = 2212
+Beams:eCM = 13000.
+
+PDF:pSet = LHAPDF6:cteq6l1
+
+HiggsSM:gg2H = on
+25:m0 = 125.0
+25:onMode = off
+25:onIfMatch = 5 -5
+
+Main:numberOfEvents = 1000
